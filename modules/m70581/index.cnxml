@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Math 126 - Precalculus</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m70581</md:content-id>
+  <md:title>Math 126 - Precalculus</md:title>
+  <md:abstract/>
+  <md:uuid>dbc0ee3f-b40b-4440-8ed2-f3c5b6375a05</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-222"><media id="eip-idm378419984" alt="MATH 126 - PRECALCULUS">
+    <image mime-type="image/jpeg" src="../../media/CoverPicture.jpg"/>
+  </media>
+</para><para id="eip-76">Welcome to <emphasis effect="italics">Precalculus</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para><para id="eip-264">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. </para><section id="eip-895"><title>Pedagogical Foundations and Features    </title><para id="eip-286"><title>Learning Objectives </title>Each chapter is divided into multiple sections (or modules), each of which is organized around a set of learning objectives. The learning objectives are listed explicitly at the beginning of each section and are the focal point of every instructional element.</para><para id="eip-706"><title>Narrative text </title>Narrative text is used to introduce key concepts, terms, and definitions, to provide real-world context, and to provide transitions between topics and examples.  Throughout this book, we rely on a few basic conventions to highlight the most important ideas:
+<list id="eip-id1166658637533"><item>Key terms are boldfaced, typically when first introduced and/or when formally defined.</item>
+<item>Key concepts and definitions are called out in a blue box for easy reference.</item>
+</list>
+</para><para id="eip-570"><title>Example </title>Each learning objective is supported by one or more worked examples that demonstrate the problem-solving approaches that students must master. Typically, we include multiple Examples for each learning objective in order to model different approaches to the same type of problem, or to introduce similar problems of increasing complexity. All told, there are more than 650 Examples, or an average of about 55 per chapter.
+All Examples follow a simple two- or three-part format. First, we pose a problem or question. Next, we demonstrate the Solution, spelling out the steps along the way. Finally (for select Examples), we conclude with an Analysis reflecting on the broader implications of the Solution just shown.
+</para><para id="eip-62"><title>Figures</title><emphasis effect="italics">Precalculus</emphasis> contains more than 2000 figures and illustrations, the vast majority of which are graphs and diagrams. Art throughout the text adheres to a clear, understated style, drawing the eye to the most important information in each figure while minimizing visual distractions. Color contrast is employed with discretion to distinguish between the different functions or features of a graph.  
+<newline/> 
+<media id="eip-idm984508848" alt="This is alt text">
+<image mime-type="image/png" src="IntroFigure.jpg "/>
+</media>
+</para><para id="eip-685"><title>Section Exercises </title>Each section of every chapter concludes with a well-rounded set of exercises that can be assigned as homework or used selectively for guided practice. With over 5900 exercises across the 12 chapters, instructors should have plenty from which to choose.
+Section Exercises are organized by question type, and generally appear in the following order:
+<list id="eip-id8611023"><item><emphasis>Verbal</emphasis> questions assess conceptual understanding of key terms and concepts.</item>
+<item><emphasis>Algebraic</emphasis> problems require students to apply algebraic manipulations demonstrated in the section.</item>
+<item><emphasis>Graphical</emphasis> problems assess students’ ability to interpret or produce a graph.</item>
+<item><emphasis>Numeric</emphasis> problems require the student to perform calculations or computations.</item>
+<item><emphasis>Technology</emphasis> problems encourage exploration through use of a graphing utility, either to visualize or verify algebraic results or to solve problems via an alternative to the methods demonstrated in the section.</item>
+<item><emphasis>Extensions</emphasis> pose problems more challenging than the Examples demonstrated in the section. They require students to synthesize multiple learning objectives or apply critical thinking to solve complex problems.</item>
+<item><emphasis>Real-World Applications</emphasis> present realistic problem scenarios from fields such as physics, geology, biology, finance, and the social sciences.</item></list>
+</para><para id="eip-395"><title>Chapter Review Features </title>Each chapter concludes with a review of the most important takeaways, as well as additional practice problems that students can use to prepare for exams. 
+
+<list id="eip-id1170356513666"><item><emphasis>Key Terms</emphasis> provides a formal definition for each bold-faced term in the chapter. </item>
+<item><emphasis>Key Equations</emphasis> presents a compilation of formulas, theorems, and standard-form equations. </item>
+<item><emphasis>Key Concepts</emphasis> summarizes the most important ideas introduced in each section, linking back to the relevant Example(s) in case students need to review.</item>
+<item><emphasis>Chapter Review Exercises</emphasis> include 40-80 practice problems that recall the most important concepts from each section.</item>
+<item><emphasis>Practice Test</emphasis> includes 25-50 problems assessing the most important learning objectives from the chapter. Note that the practice test is not organized by section, and may be more heavily weighted toward cumulative objectives as opposed to the foundational objectives covered in the opening sections. </item>
+</list></para></section></content>
+
+</document>

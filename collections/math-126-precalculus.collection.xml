@@ -1,0 +1,145 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col26003</md:content-id>
+    <md:title>Math 126 - Precalculus</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>7bbaaf95-2c6e-4b88-a7fd-f139aedf9f67</md:uuid>
+<md:slug>math-126-precalculus</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m70581"/>
+    <col:subcollection>
+      <md:title>Functions</md:title>
+      <col:content>
+        <col:module document="m49299"/>
+        <col:module document="m70769"/>
+        <col:module document="m68648"/>
+        <col:module document="m70233"/>
+        <col:module document="m70234"/>
+        <col:module document="m70263"/>
+        <col:module document="m70235"/>
+        <col:module document="m70236"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Functions</md:title>
+      <col:content>
+        <col:module document="m49321"/>
+        <col:module document="m69947"/>
+        <col:module document="m70264"/>
+        <col:module document="m70265"/>
+        <col:module document="m49327"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Polynomial and Rational Functions</md:title>
+      <col:content>
+        <col:module document="m49334"/>
+        <col:module document="m69948"/>
+        <col:module document="m70237"/>
+        <col:module document="m70238"/>
+        <col:module document="m70436"/>
+        <col:module document="m70260"/>
+        <col:module document="m70239"/>
+        <col:module document="m70240"/>
+        <col:module document="m70241"/>
+        <col:module document="m70242"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponential and Logarithmic Functions</md:title>
+      <col:content>
+        <col:module document="m70252"/>
+        <col:module document="m70250"/>
+        <col:module document="m70251"/>
+        <col:module document="m70253"/>
+        <col:module document="m70245"/>
+        <col:module document="m70254"/>
+        <col:module document="m70248"/>
+        <col:module document="m70249"/>
+        <col:module document="m70760"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trigonometric Functions</md:title>
+      <col:content>
+        <col:module document="m69984"/>
+        <col:module document="m70007"/>
+        <col:module document="m70262"/>
+        <col:module document="m70576"/>
+        <col:module document="m70580"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Periodic Functions</md:title>
+      <col:content>
+        <col:module document="m69983"/>
+        <col:module document="m70002"/>
+        <col:module document="m70005"/>
+        <col:module document="m69990"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trigonometric Identities and Equation</md:title>
+      <col:content>
+        <col:module document="m69986"/>
+        <col:module document="m69996"/>
+        <col:module document="m69989"/>
+        <col:module document="m69999"/>
+        <col:module document="m69987"/>
+        <col:module document="m69997"/>
+        <col:module document="m69995"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Further Applications of Trigonometry</md:title>
+      <col:content>
+        <col:module document="m69982"/>
+        <col:module document="m70008"/>
+        <col:module document="m69993"/>
+        <col:module document="m70257"/>
+        <col:module document="m70246"/>
+        <col:module document="m70259"/>
+        <col:module document="m70255"/>
+        <col:module document="m70244"/>
+        <col:module document="m49412"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Systems of Equations and Inequalities</md:title>
+      <col:content>
+        <col:module document="m49418"/>
+        <col:module document="m70574"/>
+        <col:module document="m70575"/>
+        <col:module document="m70577"/>
+        <col:module document="m70578"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Analytic Geometry</md:title>
+      <col:content>
+        <col:module document="m49437"/>
+        <col:module document="m70258"/>
+        <col:module document="m70247"/>
+        <col:module document="m70243"/>
+        <col:module document="m70761"/>
+        <col:module document="m70762"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sequences, Series and Counting Theory</md:title>
+      <col:content>
+        <col:module document="m49443"/>
+        <col:module document="m70583"/>
+        <col:module document="m70747"/>
+        <col:module document="m70758"/>
+        <col:module document="m70753"/>
+        <col:module document="m70749"/>
+        <col:module document="m70748"/>
+        <col:module document="m70754"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m50414"/>
+  </col:content>
+</col:collection>
